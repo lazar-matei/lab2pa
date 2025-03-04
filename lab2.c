@@ -6,6 +6,7 @@ int function(int x){
 	if(x>0)
 		x=function(x);
 	return x;
+	// marian
 }
 
 int main(){
